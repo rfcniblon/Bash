@@ -1,0 +1,3 @@
+shellexecute=backup.bat
+icon=company_logo.ico
+label=Backup Cobra
