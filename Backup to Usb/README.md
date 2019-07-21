@@ -1,4 +1,4 @@
-<color text="blue">Installation:</color>
+Installation:
 
 -- Copié le fichier "text.txt" dans le repertoire que voulez sauvegarder sur le support USB.
 -- Créer un racourci du fichier "backup.bat" sur votre bureau pour le lancer sans avoir a debrancher puis rebrancher l'USB.
