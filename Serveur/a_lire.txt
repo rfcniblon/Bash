@@ -1,4 +1,4 @@
-Création du script 
+## Création du script ## 
 lui donner les droit 
 chmod +X reboot.sh
 puis autorisé l'utilisateur avec cette commande
