@@ -1,5 +1,5 @@
 # Création du script
-## donner les droit 
+## donner les droits 
 ### chmod +X reboot.sh
 ## puis autorisé l'utilisateur avec cette commande
 ### sudo visudo
